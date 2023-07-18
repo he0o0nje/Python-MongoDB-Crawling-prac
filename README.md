@@ -1,1 +1,1 @@
-Python, Crawling, MongoDB practice
+Python, MongoDB, Crawling practice
